@@ -1,5 +1,5 @@
 <div>
-<img src="svg/rust.svg" alt="rust" style="vertical-align:top; margin:6px 4px">
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="rust">
 <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" alt="gentuwu">
 </div>
 <p align="center">
